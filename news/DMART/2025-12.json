@@ -7,6 +7,7 @@
       "publishedTime": 1733600400000,
       "title": "DMART expands retail footprint in Tier-2",
       "content": "Line1.\n\nLine2.\n\nLine3.",
+      "ticker": "DMART",
       "tags": ["business", "expansion", "retail"]
     },
     {
@@ -14,6 +15,7 @@
       "publishedTime": 1733604000000,
       "title": "Analyst upgrades DMART with strong growth outlook",
       "content": "Line3.\n\nLine4.\n\nLine5.",
+      "ticker": "DMART",
       "tags": ["finance", "research"]
     }
   ]

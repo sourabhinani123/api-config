@@ -1,0 +1,20 @@
+{
+  "ticker": "DMART",
+  "last_updated": 1733596800000,
+  "articles": [
+    {
+      "id": "nl001",
+      "publishedTime": 1733600400000,
+      "title": "DMART expands retail footprint in Tier-2",
+      "content": ""Line1.\n\nLine2.\n\nLine3."",
+      "tags": ["business", "expansion", "retail"]
+    },
+    {
+      "id": "nl002",
+      "publishedTime": 1733604000000,
+      "title": "Analyst upgrades DMART with strong growth outlook",
+      "content": ""Line1.\n\nLine2.\n\nLine3."",
+      "tags": ["finance", "research"]
+    }
+  ]
+}

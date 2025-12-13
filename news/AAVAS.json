@@ -1,0 +1,22 @@
+{
+  "ticker": "AAVAS",
+  "last_updated": 1733596800000,
+  "articles": [
+    {
+      "id": "nl001",
+      "publishedTime": 1733600400000,
+      "title": "AAVAS expands retail footprint in Tier-2",
+      "content": "Line11.\n\nLine22.\n\nLine33.",
+      "ticker": "AAVAS",
+      "tags": ["business", "expansion", "retail"]
+    },
+    {
+      "id": "nl002",
+      "publishedTime": 1733604000000,
+      "title": "AAVAS - Analyst upgrades with strong growth outlook",
+      "content": "Line33.\n\nLine44.\n\nLine55.",
+      "ticker": "AAVAS",
+      "tags": ["finance", "research"]
+    }
+  ]
+}

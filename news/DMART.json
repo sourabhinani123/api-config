@@ -1,0 +1,18 @@
+{
+  "ticker": "DMART",
+  "last_updated": 1762799400,
+  "articles": [
+    {
+      "id": "nl001",
+      "publishedTime": 1762799400,
+      "title": "DMART Q2 Result",
+      "content": "Sales rises by 10% from 1000 to 1100 Cr (YoY basis).\nNet profit rises by 11% from 148 to 164 Cr (YoY basis).\n"
+    },
+    {
+      "id": "nl002",
+      "publishedTime": 1733604000000,
+      "title": "DMART Q1 Result",
+      "content": "Sales rises by 20% from 1000 to 1200 Cr (YoY basis).\nNet profit rises by 10% from 126 to 139 Cr (YoY basis).\n"
+    }
+  ]
+}

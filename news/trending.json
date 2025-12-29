@@ -1,0 +1,12 @@
+{
+  "ticker": "trending",
+  "last_updated": 1763078400000,
+  "articles": [
+    {
+      "id": "TRENDING001",
+      "publishedTime": 1763078400000,
+      "title": "Market expected to fall in first half of next year",
+      "content": "Line1\nLine2\nLine3\nLine4\n"
+    }    
+  ]
+}
